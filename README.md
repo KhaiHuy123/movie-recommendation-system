@@ -1,7 +1,7 @@
 # movie-recommendation-system
 simple project created for studying and to do some researches   
 
-Some information about datasets used in this project. Here is some notice from auhtors who provide those datasets
+Some information about datasets used in this project. Here are some notices from auhtors who provide those datasets
 
 " This dataset (ml-25m) describes 5-star rating and free-text tagging activity from [MovieLens](http://movielens.org), a movie recommendation service. It contains 25000095 ratings and 1093360 tag applications     
   across 62423 movies. These data were created by 162541 users between January 09, 1995 and November 21, 2019. This dataset was generated on November 21, 2019.
