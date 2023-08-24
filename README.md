@@ -1,5 +1,5 @@
 # movie-recommendation-system 
-Here I created movie search engine using datasets from above source . This is a simple project created for studying and to do some researches   
+Here I created movie search engine using datasets from public datasets . This is a simple project created for studying and to do some researches   
 Hope you like it. 
 
 Here are some notices from authors who provide those datasets, please notice and follow these words :
