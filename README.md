@@ -1,6 +1,8 @@
 # movie-recommendation-system 
-* Here I created movie search engine using public datasets "ml-25m". This is a simple project created for studying and to do some researches
-* Hope you like it. If having any questions, feel free to contact me by this : nkhuy1109@gmail.com
+
+- Here I created movie search engine using public datasets "ml-25m". This is a simple project created for studying and to do some researches
+
+- Hope you like it. If having any questions, feel free to contact me by this : nkhuy1109@gmail.com
 
 ![image](https://github.com/KhaiHuy123/movie-recommendation-system/assets/86825653/8fdabefb-0127-4c96-ab72-b04f52e378a0)
 
