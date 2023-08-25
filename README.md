@@ -11,7 +11,7 @@ How search engine work ?
 
 - Step 1 :        
 
-Tranform all title include input title and all title in dataset to number. Fortunately, we have support from [sklearn.feature_extraction.text.TFIDFVetorizer](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html) to do this task.
+Tranform all title include input title and all titles in dataset to number. Fortunately, we have support from [sklearn.feature_extraction.text.TFIDFVetorizer](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html) to do this task.
         
 - Step 2 :
 
