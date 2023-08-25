@@ -1,6 +1,6 @@
 # movie-recommendation-system 
-Here I created movie search engine using public datasets "ml-25m" . This is a simple project created for studying and to do some researches   
-Hope you like it. 
+* Here I created movie search engine using public datasets "ml-25m". This is a simple project created for studying and to do some researches
+* Hope you like it. If having any questions, feel free to contact me by this : nkhuy1109@gmail.com
 
 ![image](https://github.com/KhaiHuy123/movie-recommendation-system/assets/86825653/8fdabefb-0127-4c96-ab72-b04f52e378a0)
 
@@ -16,7 +16,7 @@ Here are some notices from authors who provide those datasets, please pay attent
         The data are contained in the files `genome-scores.csv`, `genome-tags.csv`, `links.csv`, `movies.csv`, `ratings.csv` and `tags.csv`. More details about the contents and use of all these files follows.
         
         This and other GroupLens data sets are publicly available for download at <http://grouplens.org/datasets/>.
-        
+
         
         Usage License
         =============
