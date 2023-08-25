@@ -2,7 +2,7 @@
 Here I created movie search engine using public datasets "ml-25m" . This is a simple project created for studying and to do some researches   
 Hope you like it. 
 
-Here are some notices from authors who provide those datasets, please notice and follow these words :
+Here are some notices from authors who provide those datasets, please pay attention and follow these words :
 
         Summary
         =======
