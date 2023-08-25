@@ -4,7 +4,7 @@
 
 - Hope you like it. If having any questions, feel free to contact me by this : nkhuy1109@gmail.com
 
-![image](https://github.com/KhaiHuy123/movie-recommendation-system/assets/86825653/8fdabefb-0127-4c96-ab72-b04f52e378a0)
+![image](https://github.com/KhaiHuy123/movie-recommendation-system/assets/86825653/3dc4fcb6-54eb-451a-945c-674230fc809d)
 
 Here are some notices from authors who provide those datasets, please pay attention and follow these words :
 
