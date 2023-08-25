@@ -24,7 +24,7 @@ Here are some notices from authors who provide those datasets, please pay attent
         * The user may not state or imply any endorsement from the University of Minnesota or the GroupLens Research Group.
         * The user must acknowledge the use of the data set in publications resulting from the use of the data set (see below for citation information).
         * The user may not redistribute the data without separate permission.
-        * The user may not use this information for any commercial or revenue-bearing purposes without first obtaining permission from a faculty member of the GroupLens Research Project at the University of               Minnesota.
+        * The user may not use this information for any commercial or revenue-bearing purposes without first obtaining permission from a faculty member of the GroupLens Research Project at the University of Minnesota.
         * The executable software scripts are provided "as is" without warranty of any kind, either expressed or implied, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose. The entire risk as to the quality and performance of them is with you. Should the program prove defective, you assume the cost of all necessary servicing, repair or correction.
         
         In no event shall the University of Minnesota, its affiliates or employees be liable to you for any damages arising out of the use or inability to use these programs (including but not limited to loss of data or data being rendered inaccurate).
