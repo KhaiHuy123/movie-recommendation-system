@@ -1,13 +1,40 @@
 # movie-recommendation-system 
 
-- Here I created movie search engine using public datasets "ml-25m". This is a simple project created for studying and to do some researches
+Here I created movie search engine using public datasets "ml-25m". Dowload data [here](http://grouplens.org/datasets/)
 
-- Hope you like it. If having any questions, feel free to contact me by this : nkhuy1109@gmail.com
+This is a simple project created for studying and to do some researches
 
-![image](https://github.com/KhaiHuy123/movie-recommendation-system/assets/86825653/3dc4fcb6-54eb-451a-945c-674230fc809d)
+Algorithm used :
+[IDF (inverse document frequency)](https://www.capitalone.com/tech/machine-learning/understanding-tf-idf/) 
 
-Here are some notices from authors who provide those datasets, please pay attention and follow these words :
+How search engine work ? 
 
+- Step 1 :        
+
+Tranform all title include input title and all title in dataset to number. Fortunately, we have support from [sklearn.feature_extraction.text.TFIDFVetorizer](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html) to do this task.
+        
+- Step 2 :
+
+Calculate [consine similarity](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.cosine_similarity.html) and compare input title to all titles in dataset. Finally show list of results that have high value of similarity . It means the results will be a list of similar title compared to input title 
+
+Here is some infomation about cosine similarity formula :
+
+![image](https://github.com/KhaiHuy123/movie-recommendation-system/assets/86825653/b87919aa-6534-4a22-9e84-6d2fc48fb276)
+
+- Tutorial :
+
+All you have to do is to type the name of the movie you want to search into entry field, system will recommend you list of 7 movie titles. 
+
+Range of lowest point is from 0.0 to 5.0. This value is low limit of rating point. And after that you can view details information of each moive in list recommended ( I will not show here )
+
+- Conclusion : Hope you like it. If having any questions, feel free to contact me by this : nkhuy1109@gmail.com
+
+- Demo :
+  
+![image](https://github.com/KhaiHuy123/movie-recommendation-system/assets/86825653/4c9405b6-5cc2-4cca-82f3-8a31f6bf231f)
+
+        HERE ARE SOME NOTICES FROM AUTHORS WHO PROVIDE THOSE DATASETS, PLEASE PAY ATTENTION AND FOLLOW THESE WORDS :
+  
         Summary
         =======
         
