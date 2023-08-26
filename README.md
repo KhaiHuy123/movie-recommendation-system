@@ -1,33 +1,34 @@
 # movie-recommendation-system 
 
-Here I created movie search engine using public datasets "ml-25m". Dowload data [here](http://grouplens.org/datasets/)
+Here, I've developed a movie search engine utilizing the public "ml-25m" dataset. You can download the datasets [here](http://grouplens.org/datasets/)
 
-This is a simple project created for studying and to do some researches
+This project was created with the intention of study and research purposes, aiming to build a basic foundation for further exploration.
 
-Algorithm used :
+The algorithm employed in this project is based on :
 [IDF (inverse document frequency)](https://www.capitalone.com/tech/machine-learning/understanding-tf-idf/) 
+, a technique used in text analysis and information retrieval .
 
-How search engine work ? 
+How the search engine work ? 
 
 - Step 1 :        
 
-Tranform all title include input title and all titles in dataset to number. Fortunately, we have support from [sklearn.feature_extraction.text.TFIDFVetorizer](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html) to do this task.
+All movie titles, including the input title and titles within the dataset, are transformed into numerical representations. Thankfully, we have support of [sklearn.feature_extraction.text.TFIDFVetorizer](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html) to perform this task .
         
 - Step 2 :
 
-Calculate [consine similarity](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.cosine_similarity.html) and compare input title to all titles in dataset. Finally show list of results that have high value of similarity . It means the results will be a list of similar title compared to input title 
+Calculate [consine similarity](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.cosine_similarity.html) and compare input title to all titles in dataset. Finally show list of results that have high similarity scrore . In essence, the engine provides a list of titles that are most similar to the input title. 
 
-Here is some infomation about cosine similarity formula :
+Here's some insight into the formula for cosine similarity :
 
 ![image](https://github.com/KhaiHuy123/movie-recommendation-system/assets/86825653/b87919aa-6534-4a22-9e84-6d2fc48fb276)
 
 - Tutorial :
 
-All you have to do is to type the name of the movie you want to search into entry field, system will recommend you list of 7 movie titles. 
+To use the search engine, simply enter the name of the movie you're looking for into the entry field. The system will then recommend a list of 7 movie titles that are most similar.
 
-Range of lowest point is from 0.0 to 5.0. This value is low limit of rating point. And after that you can view details information of each moive in list recommended ( I will not show here )
+The range for the "lowest point" parameter is from 0.0 to 5.0. This value represents the minimum acceptable rating point. After selecting a point, you can view detailed information about each movie in the recommended list (detailed information is not included here).
 
-- Conclusion : Hope you like it. If having any questions, feel free to contact me by this : nkhuy1109@gmail.com
+- Conclusion : I hope you find this project enjoyable and insightful. If you have any questions or need further assistance, feel free to contact me at  : nkhuy1109@gmail.com
 
 - Demo :
   
