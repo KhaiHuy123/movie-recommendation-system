@@ -38,7 +38,7 @@ You can input another movie's name, for example :
 
 ![image](https://github.com/KhaiHuy123/movie-recommendation-system/assets/86825653/4b02c9d8-0cc1-4dfd-a957-0c891fb6cc84)
 
-Detailed information of 1st movie :
+Detailed information of 1st movie in list of 7  :
 
 ![image](https://github.com/KhaiHuy123/movie-recommendation-system/assets/86825653/7d0e067a-d635-4a60-b115-8294a7fd6bfd)
 
