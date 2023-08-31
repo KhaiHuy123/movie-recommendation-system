@@ -10,8 +10,7 @@ One thing must be concerned about is the quality of dataset used . According to 
 
 The topics *"data approaching and model approching , which one is better"*, *"What is the right data ?"* . It make me think too ...
 
-ABOUT PROJECT 
--------------
+# about project 
 
 The algorithm employed in this project is based on :
 [IDF (inverse document frequency)](https://www.capitalone.com/tech/machine-learning/understanding-tf-idf/) 
