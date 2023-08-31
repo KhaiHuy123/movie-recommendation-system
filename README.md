@@ -1,6 +1,6 @@
 # movie-recommendation-system 
 
-Here, I've developed a movie search engine utilizing the public "ml-25m" dataset. You can download the datasets [here](https://grouplens.org/datasets/movielens/))
+Here, I've developed a movie search engine utilizing the public "ml-25m" dataset. You can download the datasets [here](https://grouplens.org/datasets/movielens/)
 
 This project was created with the intention of study and research purposes, aiming to build a basic foundation for further exploration.
 
@@ -35,7 +35,7 @@ The range for the "lowest point" parameter is from 0.0 to 5.0. This value repres
 ![image](https://github.com/KhaiHuy123/movie-recommendation-system/assets/86825653/4c9405b6-5cc2-4cca-82f3-8a31f6bf231f)
 
 HERE ARE SOME NOTICES FROM AUTHORS WHO PROVIDE THOSE DATASETS, PLEASE PAY ATTENTION AND FOLLOW THESE WORDS :
-======
+-------
 
 Summary
 =======
