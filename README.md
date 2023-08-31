@@ -26,13 +26,22 @@ Here's some insight into the formula for cosine similarity :
 
 To use the search engine, simply enter the name of the movie you're looking for into the entry field. The system will then recommend a list of 7 movie titles that are most similar.
 
-The range for the "lowest point" parameter is from 0.0 to 5.0. This value represents the minimum acceptable rating point. After selecting a point, you can view detailed information about each movie in the recommended list (detailed information is not included here).
+The range for the "lowest point" parameter is from 0.0 to 5.0. This value represents the minimum acceptable rating point. After selecting a point, you can view detailed information about each movie in the recommended list (detailes information not included here).
 
 - Conclusion : I hope you find this project enjoyable and insightful. If you have any questions or need further assistance, feel free to contact me at  : nkhuy1109@gmail.com
 
 - Demo :
-  
-![image](https://github.com/KhaiHuy123/movie-recommendation-system/assets/86825653/4c9405b6-5cc2-4cca-82f3-8a31f6bf231f)
+
+![image](https://github.com/KhaiHuy123/movie-recommendation-system/assets/86825653/d71c1b57-5435-4b42-97ad-c73e3c605fe1)
+
+You can input another movie's name, for example :
+
+![image](https://github.com/KhaiHuy123/movie-recommendation-system/assets/86825653/4b02c9d8-0cc1-4dfd-a957-0c891fb6cc84)
+
+Detailed information of 1st movie :
+
+![image](https://github.com/KhaiHuy123/movie-recommendation-system/assets/86825653/7d0e067a-d635-4a60-b115-8294a7fd6bfd)
+
 
 HERE ARE SOME NOTICES FROM AUTHORS WHO PROVIDE THOSE DATASETS, PLEASE PAY ATTENTION AND FOLLOW THESE WORDS :
 -------
