@@ -2,7 +2,16 @@
 
 Here, I've developed a movie search engine utilizing the public "ml-25m" dataset. You can download the datasets [here](https://grouplens.org/datasets/movielens/)
 
-This project was created with the intention of study and research purposes, aiming to build a basic foundation for further exploration.
+This project was created with the intention of study and research purposes, aiming to build a basic foundation for further exploration. The concept of this project is built upon the limitations of traditional Machine Learning reasoning. Nowadays, a multitude of deep learning models are employed to construct recommendation systems.
+
+One thing must be concerned about is the quality of dataset used . Accodring to annoucement from "unforeseen authors" who provide "ml-25m" datasets. There is nothing guaranteed for the correctness of those datasets used in this project .
+
+*Data collection is often seen as a one-time event and is neglected in favour of building better model architecture. As a result, hundreds of hours are lost in fine-tuning models based on imperfect data. According to [Adrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng) , we “need to move from a model-centric approach to a data-centric approach.”* . You can explore more informations [here](https://analyticsindiamag.com/why-andrew-ng-favours-data-centric-systems-over-model-centric-systems/)
+
+The topics *"data approaching and model approching , which one is better"*, *"What is the right data ?"* . It make me think too ...
+
+ABOUT PROJECT 
+-------------
 
 The algorithm employed in this project is based on :
 [IDF (inverse document frequency)](https://www.capitalone.com/tech/machine-learning/understanding-tf-idf/) 
