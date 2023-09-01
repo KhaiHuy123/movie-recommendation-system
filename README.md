@@ -1,6 +1,6 @@
 # movie-recommendation-system 
 
-Here, I've developed a movie search engine utilizing the public "ml-25m" dataset. You can download the datasets [here](https://grouplens.org/datasets/movielens/)
+Here, I've developed a movie search engine utilizing the public "ml-25m" dataset. You can download the dataset [here](https://grouplens.org/datasets/movielens/)
 
 This project was created with the intention of study and research purposes, aiming to build a basic foundation for further exploration. The concept of this project is built upon the limitations of traditional Machine Learning reasoning. Nowadays, a multitude of deep learning models are employed to construct recommendation systems.
 
