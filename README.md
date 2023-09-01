@@ -4,7 +4,7 @@ Here, I've developed a movie search engine utilizing the public "ml-25m" dataset
 
 This project was created with the intention of study and research purposes, aiming to build a basic foundation for further exploration. The concept of this project is built upon the limitations of traditional Machine Learning reasoning. Nowadays, a multitude of deep learning models are employed to construct recommendation systems.
 
-One thing must be concerned about is the quality of dataset used . According to announcements from "unforeseen authors" who provide "ml-25m" datasets. There is nothing guaranteed for the correctness of those datasets used in this project .
+One thing must be concerned about is the quality of dataset used . According to announcements from "unforeseen authors" who provide "ml-25m" dataset. There is nothing guaranteed for the correctness of those datasets used in this project .
 
 *Data collection is often seen as a one-time event and is neglected in favour of building better model architecture. As a result, hundreds of hours are lost in fine-tuning models based on imperfect data. According to [Adrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng) , we “need to move from a model-centric approach to a data-centric approach.”* . You can explore more informations [here](https://analyticsindiamag.com/why-andrew-ng-favours-data-centric-systems-over-model-centric-systems/)
 
