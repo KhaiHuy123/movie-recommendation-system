@@ -34,22 +34,33 @@ Here's some insight into the formula for cosine similarity :
 
 To use the search engine, simply enter the name of the movie you're looking for into the entry field. The system will then recommend a list of 7 movie titles that are most similar.
 
-The range for the "lowest point" parameter is from 0.0 to 5.0. This value represents the minimum acceptable rating point. After selecting a point, you can view detailed information about each movie in the recommended list (detailes information not included here).
+The range for the "lowest point" parameter is from 0.0 to 5.0. This value represents the minimum acceptable rating point. After selecting a point, you can view detailed information about each movie in the recommended list (detailes information not included fully here).
+
+You can use "Advanced Search" functionality to find not only recommedations having closest relationship with the movie you want to search but also the movie recommend by orther users base on rating rate    
 
 - Conclusion : I hope you find this project enjoyable and insightful. If you have any questions or need further assistance, feel free to contact me at  : nkhuy1109@gmail.com
 
 - Demo :
 
-![image](https://github.com/KhaiHuy123/movie-recommendation-system/assets/86825653/d71c1b57-5435-4b42-97ad-c73e3c605fe1)
+![image](https://github.com/KhaiHuy123/movie-recommendation-system/assets/86825653/492f78c1-e0b9-4747-8ac1-3393e7436b34)
 
-You can input another movie's name, for example :
+Detailed information of 4th movie in list of 7  :
 
-![image](https://github.com/KhaiHuy123/movie-recommendation-system/assets/86825653/4b02c9d8-0cc1-4dfd-a957-0c891fb6cc84)
+![image](https://github.com/KhaiHuy123/movie-recommendation-system/assets/86825653/9e4b176a-9f22-4ca4-a5f0-73308dc016d1)
+
+You can view recommended movies by clicking Advanced Search button , system will give you list of 7 movies base on "rating rate" of similar users who voted for the your movie too  . 
+
+For example, the recommedations for similar moive of "catch me if you can" are :
+
+![image](https://github.com/KhaiHuy123/movie-recommendation-system/assets/86825653/b658135b-2105-410d-86bf-4f44bf8ff5dc)
+
+You can try another movie like :
+
+![image](https://github.com/KhaiHuy123/movie-recommendation-system/assets/86825653/1c02de75-1311-48da-89cb-3559cb25cc2a)
 
 Detailed information of 1st movie in list of 7  :
 
-![image](https://github.com/KhaiHuy123/movie-recommendation-system/assets/86825653/7d0e067a-d635-4a60-b115-8294a7fd6bfd)
-
+![image](https://github.com/KhaiHuy123/movie-recommendation-system/assets/86825653/777945bf-abdf-4beb-af60-a7bd5971e483)
 
 HERE ARE SOME NOTICES FROM AUTHORS WHO PROVIDE THOSE DATASETS, PLEASE PAY ATTENTION AND FOLLOW THESE WORDS :
 -------
