@@ -46,7 +46,7 @@ You can use "Advanced Search" functionality to find not only recommedations havi
 
 Detailed information of 4th movie in list of 7  :
 
-![image](https://github.com/KhaiHuy123/movie-recommendation-system/assets/86825653/0ca0ad52-7b34-4c9c-98ad-b0689bbc1b3a)
+![image](https://github.com/KhaiHuy123/movie-recommendation-system/assets/86825653/3e3958ae-c5ef-4657-86c9-4d6395b27037)
 
 You can view recommended movies by clicking Advanced Search button , system will give you list of 7 movies base on "rating rate" of similar users who voted for the your movie too  . 
 
