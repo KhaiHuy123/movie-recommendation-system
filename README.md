@@ -8,7 +8,7 @@ One thing must be concerned about is the quality of dataset used . According to 
 
 *Data collection is often seen as a one-time event and is neglected in favour of building better model architecture. As a result, hundreds of hours are lost in fine-tuning models based on imperfect data. According to [Adrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng) , we “need to move from a model-centric approach to a data-centric approach.”* . You can explore more informations [here](https://analyticsindiamag.com/why-andrew-ng-favours-data-centric-systems-over-model-centric-systems/)
 
-The topics *"data approaching and model approching , which one is better"*, *"What is the right data ?"* . It make me think too ...
+The topics *"data approaching and model approching , which one is better ?"*, *"What is the right data ?"* . It make me think too ...
 
 # about project 
 
