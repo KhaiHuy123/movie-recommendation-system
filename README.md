@@ -62,6 +62,10 @@ Detailed information of 1st movie in list of 7  :
 
 ![image](https://github.com/KhaiHuy123/movie-recommendation-system/assets/86825653/777945bf-abdf-4beb-af60-a7bd5971e483)
 
+Recommended movies :
+
+![image](https://github.com/KhaiHuy123/movie-recommendation-system/assets/86825653/bccca0da-25b8-4496-982e-3682e4629ba7)
+
 HERE ARE SOME NOTICES FROM AUTHORS WHO PROVIDE THOSE DATASETS, PLEASE PAY ATTENTION AND FOLLOW THESE WORDS :
 -------
 
