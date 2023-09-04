@@ -36,7 +36,7 @@ To use the search engine, simply enter the name of the movie you're looking for 
 
 The range for the "lowest point" parameter is from 0.0 to 5.0. This value represents the minimum acceptable rating point. After selecting a point, you can view detailed information about each movie in the recommended list (detailes information not included fully here).
 
-You can use "Advanced Search" functionality to find not only recommedations having closest relationship with the movie you want to search but also the movie recommend by orther users base on rating rate    
+You can use "Advanced Search" functionality to find not only recommedations having closest relationship with the movie you want to search but also the movie recommended by orther users base on rating rate    
 
 - Conclusion : I hope you find this project enjoyable and insightful. If you have any questions or need further assistance, feel free to contact me at  : nkhuy1109@gmail.com
 
