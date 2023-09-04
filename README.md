@@ -48,7 +48,7 @@ Detailed information of 4th movie in list of 7  :
 
 ![image](https://github.com/KhaiHuy123/movie-recommendation-system/assets/86825653/49d7d752-6f93-4a40-a264-5c95ae7ebda8)
 
-You can view recommended movies by clicking Advanced Search button , system will give you list of 7 movies base on "rating rate" of similar users who voted for movie you are looking for . 
+You can view recommended movies by clicking Advanced Search button , system will give you list of 7 movies base on "rating rate" of similar users who voted for the movie you are looking for . 
 
 For example, the recommedations for similar moive of "catch me if you can" are :
 
