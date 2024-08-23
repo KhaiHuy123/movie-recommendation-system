@@ -66,7 +66,6 @@ Recommended movies :
 
 ![image](https://github.com/KhaiHuy123/movie-recommendation-system/assets/86825653/bccca0da-25b8-4496-982e-3682e4629ba7)
 
-HERE ARE SOME NOTICES FROM AUTHORS WHO PROVIDE THOSE DATASETS, PLEASE PAY ATTENTION AND FOLLOW THESE WORDS :
 -------
 
 Summary
